@@ -1,0 +1,38 @@
+{
+  "id": "general_science",
+  "title": "General Science Basics",
+  "description": "A warmup set of questions across physics, biology, and earth science.",
+  "time_limit_seconds": 600,
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What gas do plants primarily absorb from the atmosphere for photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "correct_option": "Carbon dioxide"
+    },
+    {
+      "id": "q2",
+      "text": "Which part of the cell contains genetic material?",
+      "options": ["Cytoplasm", "Nucleus", "Cell membrane", "Ribosome"],
+      "correct_option": "Nucleus"
+    },
+    {
+      "id": "q3",
+      "text": "How long does Earth take to complete one rotation on its axis?",
+      "options": ["12 hours", "24 hours", "30 days", "365 days"],
+      "correct_option": "24 hours"
+    },
+    {
+      "id": "q4",
+      "text": "What is H2O commonly known as?",
+      "options": ["Hydrogen peroxide", "Water", "Salt", "Ozone"],
+      "correct_option": "Water"
+    },
+    {
+      "id": "q5",
+      "text": "What force keeps planets in orbit around the sun?",
+      "options": ["Friction", "Magnetism", "Gravity", "Nuclear force"],
+      "correct_option": "Gravity"
+    }
+  ]
+}
